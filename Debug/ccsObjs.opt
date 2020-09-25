@@ -1,0 +1,1 @@
+"./LockMechCode.o" -Wl,--start-group -llpmsp430g2553_IRremote -llpmsp430g2553_core -lm -Wl,--end-group 
